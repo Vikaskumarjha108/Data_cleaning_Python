@@ -1,0 +1,29 @@
+Employee ID,Name,Age,Salary (INR),Experience (Years),City,Department,Performance Rating
+EMP001,Rajesh Kumar,32,650000.0,8,Delhi,Engineering,4.5
+EMP002,Anita Sharma,28,520000.0,5,Mumbai,Marketing,4.0
+EMP003,Vikram Patel,35,780000.0,10,Bengaluru,Finance,4.2
+EMP004,Neha Reddy,30,600000.0,6,Hyderabad,HR,3.8
+EMP006,Deepa Iyer,26,668000.0,3,Chennai,Support,3.5
+EMP007,Karan Mehta,29,560000.0,4,Gurgaon,Sales,4.0
+EMP008,Meena Joshi,31,610000.0,7,Ahmedabad,Operations,4.1
+EMP009,Arjun Das,38,880000.0,13,Kolkata,Engineering,4.6
+EMP010,Priya Nair,27,510000.0,4,Thiruvananthapuram,Marketing,4.1
+EMP011,Sunil Bansal,34,720000.0,9,Jaipur,Finance,4.3
+EMP013,Sachin Verma,37,820000.0,12,Nagpur,Engineering,4.4
+EMP014,Nidhi Gupta,33,700000.0,8,Noida,Sales,4.0
+EMP015,Manoj Pillai,29,590000.0,5,Coimbatore,Support,3.7
+EMP016,Divya Menon,31,630000.0,7,Kochi,Operations,4.1
+EMP017,Harsh Tiwari,36,850000.0,11,Indore,Engineering,4.5
+EMP018,Swati Jha,30,610000.0,6,Patna,HR,3.8
+EMP019,Ravi Kapoor,27,540000.0,4,Raipur,New Joining,4.0
+EMP020,Lavanya Rao,26,500000.0,3,Visakhapatnam,Support,3.6
+EMP021,Abhishek Chauhan,39,920000.0,14,Lucknow,Finance,4.4
+EMP022,Simran Kaur,34,710000.0,9,Amritsar,Sales,3.9
+EMP023,Naveen Joshi,29,570000.0,5,Dehradun,Operations,4.0
+EMP024,Preeti Sinha,32,660000.0,8,Varanasi,Marketing,4.2
+EMP025,Tanmay Bhatt,28,520000.0,4,Ranchi,Engineering,4.1
+EMP026,Rekha Nair,35,780000.0,10,Mangalore,HR,3.7
+EMP027,Devendra Shetty,30,600000.0,6,Surat,Finance,4.2
+EMP028,Anshul Rana,33,690000.0,7,Jodhpur,Engineering,4.3
+EMP029,Sneha Ghosh,25,470000.0,2,Howrah,Support,3.5
+EMP030,Yash Desai,31,640000.0,7,Nashik,Sales,4.1
